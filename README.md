@@ -63,6 +63,14 @@ cd scripts
 python3 fast_run_recipes.py
 ```
 
+### Resolving Parse Errors
+Reads results file and using provided bench iteratively runs until all parse errors are resolved
+
+```bash
+cd scripts
+python3 resolve_parse_errors.py
+```
+
 ---
 
 ## ⚙️ Configuration
