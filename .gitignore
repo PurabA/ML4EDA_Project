@@ -9,6 +9,9 @@ abc/*
 abc/abc
 abc/*.o
 
+#Log files
+*.log
+
 # OS
 
 .DS_Store
