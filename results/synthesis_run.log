@@ -1,0 +1,111 @@
+2026-04-21 13:24:26,034 [INFO] Generating 10000 unique recipes...
+2026-04-21 13:24:26,071 [INFO] Recipe generation complete.
+2026-04-21 13:24:26,072 [INFO] Starting multiprocessing pool with 20 cores...
+2026-04-21 13:24:56,812 [INFO] --- 100/10000 runs done | 100 successful | 30.7s elapsed (3.25 runs/sec) ---
+2026-04-21 13:25:26,970 [INFO] --- 200/10000 runs done | 200 successful | 60.9s elapsed (3.28 runs/sec) ---
+2026-04-21 13:25:57,477 [INFO] --- 300/10000 runs done | 300 successful | 91.4s elapsed (3.28 runs/sec) ---
+2026-04-21 13:26:30,172 [INFO] --- 400/10000 runs done | 400 successful | 124.1s elapsed (3.22 runs/sec) ---
+2026-04-21 13:27:02,323 [INFO] --- 500/10000 runs done | 500 successful | 156.3s elapsed (3.20 runs/sec) ---
+2026-04-21 13:27:33,915 [INFO] --- 600/10000 runs done | 600 successful | 187.8s elapsed (3.19 runs/sec) ---
+2026-04-21 13:28:05,480 [INFO] --- 700/10000 runs done | 700 successful | 219.4s elapsed (3.19 runs/sec) ---
+2026-04-21 13:28:38,458 [INFO] --- 800/10000 runs done | 800 successful | 252.4s elapsed (3.17 runs/sec) ---
+2026-04-21 13:29:09,876 [INFO] --- 900/10000 runs done | 900 successful | 283.8s elapsed (3.17 runs/sec) ---
+2026-04-21 13:29:41,603 [INFO] --- 1000/10000 runs done | 1000 successful | 315.5s elapsed (3.17 runs/sec) ---
+2026-04-21 13:30:13,409 [INFO] --- 1100/10000 runs done | 1100 successful | 347.3s elapsed (3.17 runs/sec) ---
+2026-04-21 13:30:45,518 [INFO] --- 1200/10000 runs done | 1200 successful | 379.4s elapsed (3.16 runs/sec) ---
+2026-04-21 13:31:16,999 [INFO] --- 1300/10000 runs done | 1300 successful | 410.9s elapsed (3.16 runs/sec) ---
+2026-04-21 13:31:49,485 [INFO] --- 1400/10000 runs done | 1400 successful | 443.4s elapsed (3.16 runs/sec) ---
+2026-04-21 13:32:20,554 [INFO] --- 1500/10000 runs done | 1500 successful | 474.5s elapsed (3.16 runs/sec) ---
+2026-04-21 13:32:52,629 [INFO] --- 1600/10000 runs done | 1600 successful | 506.6s elapsed (3.16 runs/sec) ---
+2026-04-21 13:33:24,180 [INFO] --- 1700/10000 runs done | 1700 successful | 538.1s elapsed (3.16 runs/sec) ---
+2026-04-21 13:33:56,454 [INFO] --- 1800/10000 runs done | 1800 successful | 570.4s elapsed (3.16 runs/sec) ---
+2026-04-21 13:34:29,813 [INFO] --- 1900/10000 runs done | 1900 successful | 603.7s elapsed (3.15 runs/sec) ---
+2026-04-21 13:35:00,688 [INFO] --- 2000/10000 runs done | 2000 successful | 634.6s elapsed (3.15 runs/sec) ---
+2026-04-21 13:35:32,877 [INFO] --- 2100/10000 runs done | 2100 successful | 666.8s elapsed (3.15 runs/sec) ---
+2026-04-21 13:36:04,996 [INFO] --- 2200/10000 runs done | 2200 successful | 698.9s elapsed (3.15 runs/sec) ---
+2026-04-21 13:36:36,269 [INFO] --- 2300/10000 runs done | 2300 successful | 730.2s elapsed (3.15 runs/sec) ---
+2026-04-21 13:37:08,247 [INFO] --- 2400/10000 runs done | 2400 successful | 762.2s elapsed (3.15 runs/sec) ---
+2026-04-21 13:37:38,823 [INFO] --- 2500/10000 runs done | 2500 successful | 792.8s elapsed (3.15 runs/sec) ---
+2026-04-21 13:38:10,515 [INFO] --- 2600/10000 runs done | 2600 successful | 824.4s elapsed (3.15 runs/sec) ---
+2026-04-21 13:38:43,489 [INFO] --- 2700/10000 runs done | 2700 successful | 857.4s elapsed (3.15 runs/sec) ---
+2026-04-21 13:39:15,339 [INFO] --- 2800/10000 runs done | 2800 successful | 889.3s elapsed (3.15 runs/sec) ---
+2026-04-21 13:39:47,289 [INFO] --- 2900/10000 runs done | 2900 successful | 921.2s elapsed (3.15 runs/sec) ---
+2026-04-21 13:40:18,319 [INFO] --- 3000/10000 runs done | 3000 successful | 952.2s elapsed (3.15 runs/sec) ---
+2026-04-21 13:40:50,200 [INFO] --- 3100/10000 runs done | 3100 successful | 984.1s elapsed (3.15 runs/sec) ---
+2026-04-21 13:41:22,596 [INFO] --- 3200/10000 runs done | 3200 successful | 1016.5s elapsed (3.15 runs/sec) ---
+2026-04-21 13:41:53,678 [INFO] --- 3300/10000 runs done | 3300 successful | 1047.6s elapsed (3.15 runs/sec) ---
+2026-04-21 13:41:57,047 [WARNING] [3314] FAILED: PARSE_ERROR
+2026-04-21 13:42:25,980 [INFO] --- 3400/10000 runs done | 3399 successful | 1079.9s elapsed (3.15 runs/sec) ---
+2026-04-21 13:42:58,325 [INFO] --- 3500/10000 runs done | 3499 successful | 1112.3s elapsed (3.15 runs/sec) ---
+2026-04-21 13:43:30,534 [INFO] --- 3600/10000 runs done | 3599 successful | 1144.5s elapsed (3.15 runs/sec) ---
+2026-04-21 13:44:02,558 [INFO] --- 3700/10000 runs done | 3699 successful | 1176.5s elapsed (3.14 runs/sec) ---
+2026-04-21 13:44:34,127 [INFO] --- 3800/10000 runs done | 3799 successful | 1208.1s elapsed (3.15 runs/sec) ---
+2026-04-21 13:45:06,685 [INFO] --- 3900/10000 runs done | 3899 successful | 1240.6s elapsed (3.14 runs/sec) ---
+2026-04-21 13:45:28,037 [WARNING] [3967] FAILED: PARSE_ERROR
+2026-04-21 13:45:39,862 [INFO] --- 4000/10000 runs done | 3998 successful | 1273.8s elapsed (3.14 runs/sec) ---
+2026-04-21 13:46:12,512 [INFO] --- 4100/10000 runs done | 4098 successful | 1306.4s elapsed (3.14 runs/sec) ---
+2026-04-21 13:46:44,820 [INFO] --- 4200/10000 runs done | 4198 successful | 1338.7s elapsed (3.14 runs/sec) ---
+2026-04-21 13:47:16,530 [INFO] --- 4300/10000 runs done | 4298 successful | 1370.5s elapsed (3.14 runs/sec) ---
+2026-04-21 13:47:48,692 [INFO] --- 4400/10000 runs done | 4398 successful | 1402.6s elapsed (3.14 runs/sec) ---
+2026-04-21 13:48:21,443 [INFO] --- 4500/10000 runs done | 4498 successful | 1435.4s elapsed (3.14 runs/sec) ---
+2026-04-21 13:48:53,306 [INFO] --- 4600/10000 runs done | 4598 successful | 1467.2s elapsed (3.14 runs/sec) ---
+2026-04-21 13:49:26,096 [INFO] --- 4700/10000 runs done | 4698 successful | 1500.0s elapsed (3.13 runs/sec) ---
+2026-04-21 13:49:58,012 [INFO] --- 4800/10000 runs done | 4798 successful | 1531.9s elapsed (3.13 runs/sec) ---
+2026-04-21 13:50:21,767 [WARNING] [4875] FAILED: PARSE_ERROR
+2026-04-21 13:50:29,624 [INFO] --- 4900/10000 runs done | 4897 successful | 1563.6s elapsed (3.13 runs/sec) ---
+2026-04-21 13:51:01,536 [INFO] --- 5000/10000 runs done | 4997 successful | 1595.5s elapsed (3.13 runs/sec) ---
+2026-04-21 13:51:31,142 [WARNING] [5090] FAILED: PARSE_ERROR
+2026-04-21 13:51:34,014 [INFO] --- 5100/10000 runs done | 5096 successful | 1627.9s elapsed (3.13 runs/sec) ---
+2026-04-21 13:52:07,038 [INFO] --- 5200/10000 runs done | 5196 successful | 1661.0s elapsed (3.13 runs/sec) ---
+2026-04-21 13:52:37,600 [INFO] --- 5300/10000 runs done | 5296 successful | 1691.5s elapsed (3.13 runs/sec) ---
+2026-04-21 13:53:11,043 [INFO] --- 5400/10000 runs done | 5396 successful | 1725.0s elapsed (3.13 runs/sec) ---
+2026-04-21 13:53:43,937 [INFO] --- 5500/10000 runs done | 5496 successful | 1757.9s elapsed (3.13 runs/sec) ---
+2026-04-21 13:54:16,235 [INFO] --- 5600/10000 runs done | 5596 successful | 1790.2s elapsed (3.13 runs/sec) ---
+2026-04-21 13:54:48,552 [INFO] --- 5700/10000 runs done | 5696 successful | 1822.5s elapsed (3.13 runs/sec) ---
+2026-04-21 13:55:21,266 [INFO] --- 5800/10000 runs done | 5796 successful | 1855.2s elapsed (3.13 runs/sec) ---
+2026-04-21 13:55:53,811 [INFO] --- 5900/10000 runs done | 5896 successful | 1887.7s elapsed (3.13 runs/sec) ---
+2026-04-21 13:56:25,234 [INFO] --- 6000/10000 runs done | 5996 successful | 1919.2s elapsed (3.13 runs/sec) ---
+2026-04-21 13:56:57,566 [INFO] --- 6100/10000 runs done | 6096 successful | 1951.5s elapsed (3.13 runs/sec) ---
+2026-04-21 13:57:28,725 [INFO] --- 6200/10000 runs done | 6196 successful | 1982.7s elapsed (3.13 runs/sec) ---
+2026-04-21 13:58:00,381 [INFO] --- 6300/10000 runs done | 6296 successful | 2014.3s elapsed (3.13 runs/sec) ---
+2026-04-21 13:58:32,508 [INFO] --- 6400/10000 runs done | 6396 successful | 2046.4s elapsed (3.13 runs/sec) ---
+2026-04-21 13:59:05,074 [INFO] --- 6500/10000 runs done | 6496 successful | 2079.0s elapsed (3.13 runs/sec) ---
+2026-04-21 13:59:37,596 [INFO] --- 6600/10000 runs done | 6596 successful | 2111.5s elapsed (3.13 runs/sec) ---
+2026-04-21 14:00:09,441 [INFO] --- 6700/10000 runs done | 6696 successful | 2143.4s elapsed (3.13 runs/sec) ---
+2026-04-21 14:00:41,391 [INFO] --- 6800/10000 runs done | 6796 successful | 2175.3s elapsed (3.13 runs/sec) ---
+2026-04-21 14:01:13,608 [INFO] --- 6900/10000 runs done | 6896 successful | 2207.5s elapsed (3.13 runs/sec) ---
+2026-04-21 14:01:46,126 [INFO] --- 7000/10000 runs done | 6996 successful | 2240.1s elapsed (3.12 runs/sec) ---
+2026-04-21 14:02:18,135 [INFO] --- 7100/10000 runs done | 7096 successful | 2272.1s elapsed (3.12 runs/sec) ---
+2026-04-21 14:02:50,973 [INFO] --- 7200/10000 runs done | 7196 successful | 2304.9s elapsed (3.12 runs/sec) ---
+2026-04-21 14:03:22,738 [INFO] --- 7300/10000 runs done | 7296 successful | 2336.7s elapsed (3.12 runs/sec) ---
+2026-04-21 14:03:55,260 [INFO] --- 7400/10000 runs done | 7396 successful | 2369.2s elapsed (3.12 runs/sec) ---
+2026-04-21 14:04:28,230 [INFO] --- 7500/10000 runs done | 7496 successful | 2402.2s elapsed (3.12 runs/sec) ---
+2026-04-21 14:05:00,525 [INFO] --- 7600/10000 runs done | 7596 successful | 2434.5s elapsed (3.12 runs/sec) ---
+2026-04-21 14:05:32,953 [INFO] --- 7700/10000 runs done | 7696 successful | 2466.9s elapsed (3.12 runs/sec) ---
+2026-04-21 14:06:04,808 [INFO] --- 7800/10000 runs done | 7796 successful | 2498.7s elapsed (3.12 runs/sec) ---
+2026-04-21 14:06:36,718 [INFO] --- 7900/10000 runs done | 7896 successful | 2530.6s elapsed (3.12 runs/sec) ---
+2026-04-21 14:07:08,416 [INFO] --- 8000/10000 runs done | 7996 successful | 2562.3s elapsed (3.12 runs/sec) ---
+2026-04-21 14:07:40,765 [INFO] --- 8100/10000 runs done | 8096 successful | 2594.7s elapsed (3.12 runs/sec) ---
+2026-04-21 14:08:14,167 [INFO] --- 8200/10000 runs done | 8196 successful | 2628.1s elapsed (3.12 runs/sec) ---
+2026-04-21 14:08:46,601 [INFO] --- 8300/10000 runs done | 8296 successful | 2660.5s elapsed (3.12 runs/sec) ---
+2026-04-21 14:09:19,666 [INFO] --- 8400/10000 runs done | 8396 successful | 2693.6s elapsed (3.12 runs/sec) ---
+2026-04-21 14:09:50,981 [INFO] --- 8500/10000 runs done | 8496 successful | 2724.9s elapsed (3.12 runs/sec) ---
+2026-04-21 14:10:23,165 [INFO] --- 8600/10000 runs done | 8596 successful | 2757.1s elapsed (3.12 runs/sec) ---
+2026-04-21 14:10:54,301 [INFO] --- 8700/10000 runs done | 8696 successful | 2788.2s elapsed (3.12 runs/sec) ---
+2026-04-21 14:11:24,665 [WARNING] [8791] FAILED: PARSE_ERROR
+2026-04-21 14:11:27,964 [INFO] --- 8800/10000 runs done | 8795 successful | 2821.9s elapsed (3.12 runs/sec) ---
+2026-04-21 14:11:59,885 [INFO] --- 8900/10000 runs done | 8895 successful | 2853.8s elapsed (3.12 runs/sec) ---
+2026-04-21 14:12:31,739 [INFO] --- 9000/10000 runs done | 8995 successful | 2885.7s elapsed (3.12 runs/sec) ---
+2026-04-21 14:13:04,436 [INFO] --- 9100/10000 runs done | 9095 successful | 2918.4s elapsed (3.12 runs/sec) ---
+2026-04-21 14:13:36,923 [INFO] --- 9200/10000 runs done | 9195 successful | 2950.9s elapsed (3.12 runs/sec) ---
+2026-04-21 14:13:58,937 [WARNING] [9271] FAILED: PARSE_ERROR
+2026-04-21 14:14:09,342 [INFO] --- 9300/10000 runs done | 9294 successful | 2983.3s elapsed (3.12 runs/sec) ---
+2026-04-21 14:14:41,053 [INFO] --- 9400/10000 runs done | 9394 successful | 3015.0s elapsed (3.12 runs/sec) ---
+2026-04-21 14:15:13,354 [INFO] --- 9500/10000 runs done | 9494 successful | 3047.3s elapsed (3.12 runs/sec) ---
+2026-04-21 14:15:45,672 [INFO] --- 9600/10000 runs done | 9594 successful | 3079.6s elapsed (3.12 runs/sec) ---
+2026-04-21 14:16:18,578 [INFO] --- 9700/10000 runs done | 9694 successful | 3112.5s elapsed (3.12 runs/sec) ---
+2026-04-21 14:16:24,075 [WARNING] [9712] FAILED: PARSE_ERROR
+2026-04-21 14:16:51,114 [INFO] --- 9800/10000 runs done | 9793 successful | 3145.0s elapsed (3.12 runs/sec) ---
+2026-04-21 14:17:23,771 [INFO] --- 9900/10000 runs done | 9893 successful | 3177.7s elapsed (3.12 runs/sec) ---
+2026-04-21 14:17:53,738 [INFO] --- 10000/10000 runs done | 9993 successful | 3207.7s elapsed (3.12 runs/sec) ---
+2026-04-21 14:17:53,741 [INFO] DONE. Completed 10000 runs in 3207.67s.

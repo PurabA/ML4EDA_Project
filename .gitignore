@@ -1,0 +1,14 @@
+# Python
+
+**pycache**/
+*.pyc
+
+
+# ABC build artifacts
+abc/*
+abc/abc
+abc/*.o
+
+# OS
+
+.DS_Store
