@@ -11,8 +11,8 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 # ===== PATH CONFIG (VERY IMPORTANT) =====
 ABC_EXEC = "../abc/abc"   # script runs from scripts/
 LIB = "../libs/nangate_45.lib"
-BENCH = "../designs/aes_orig.bench"
-OUTPUT_CSV = "../results/results_aes.csv"
+BENCH = "../designs/sqrt_orig.bench"
+OUTPUT_CSV = "../results/results_sqrt_full.csv"
 LOG_FILE = "../results/synthesis_run.log"
 
 # ===== SETTINGS =====
