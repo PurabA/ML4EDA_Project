@@ -2,6 +2,7 @@
 
 **pycache**/
 *.pyc
+/venv
 
 
 # ABC build artifacts
