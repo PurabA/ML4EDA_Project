@@ -1,0 +1,9 @@
+run_id,design,recipe_name,area,delay,status,recipe_detail
+1,aes,resyn,21821.84,1216.77,SUCCESS,resyn
+2,aes,resyn2,21821.84,1216.77,SUCCESS,resyn2
+3,aes,compress2,21821.84,1216.77,SUCCESS,compress2
+4,sqrt,resyn,23700.87,182398.03,SUCCESS,resyn
+5,sqrt,resyn2,23700.87,182398.03,SUCCESS,resyn2
+6,sqrt,compress2,23700.87,182398.03,SUCCESS,compress2
+7,aes,sqrt_winner (Recipe B),18150.51,1095.12,SUCCESS,refactor -z | refactor | rewrite -z | rewrite -z | refactor | balance | refactor | refactor | resub | refactor -z | refactor | refactor -z | refactor -z | resub | refactor -z | rewrite | refactor | refactor -z | balance | balance
+8,sqrt,aes_winner (Recipe A),19250.15,164922.11,SUCCESS,rewrite -z | refactor -z | refactor -z | balance | refactor -z | rewrite -z | refactor -z | balance | refactor -z | resub -z | resub | rewrite -z | resub -z | refactor -z | rewrite | resub -z | balance | resub -z | refactor | resub -z
